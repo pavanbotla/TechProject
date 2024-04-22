@@ -1,3 +1,9 @@
+Team Members:
+Pavan kumar Botla
+Srinidhi Arshanapally
+
+
+
 Screenshots
 
 
@@ -24,3 +30,11 @@ Interface 5
 
 
 Short Video
+
+
+
+
+https://github.com/pavanbotla/TechProject/assets/156607409/8d75695e-9858-42f7-87e3-0c065ae83901
+
+
+
